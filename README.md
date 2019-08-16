@@ -1,6 +1,6 @@
 # Vu1hub - Docker-Compose files for vulnerabilities environment
 
-[![GitHub](https://img.shields.io/github/license/cnsimo/vu1hub.svg)](https://github.com/cnsimo/vu1hub/blob/master/LICENSE)
+![](https://img.shields.io/badge/platform-docker-lightgrey.svg) ![](https://img.shields.io/badge/language-shell-blue.svg) [![GitHub](https://img.shields.io/github/license/cnsimo/vu1hub.svg)](https://github.com/cnsimo/vu1hub/blob/master/LICENSE)
 
 Vu1hub是一个面向大众的开源漏洞靶场，无需docker知识，简单执行两条命令即可编译、运行一个完整的漏洞靶场镜像。
 
